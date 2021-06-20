@@ -1,0 +1,2 @@
+# IngCivil
+Proyecto prototipo SECOED
